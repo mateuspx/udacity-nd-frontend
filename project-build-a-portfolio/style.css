@@ -1,0 +1,28 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #2d3c49;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.hero {
+    width: 100%;
+    height: 50vh;
+    background: #2d3c49 url(assets/golden-gate-bridge.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+.project-thumb {
+    color: #02b3e4;
+}
+
+@media screen and (min-width: 800px) {
+    /* body {background: #02b3e4;} */
+}
